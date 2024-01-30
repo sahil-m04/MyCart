@@ -16,7 +16,6 @@ const ShoppingListEl = document.getElementById("shopping-list")
 buttonEl.addEventListener("click" , function(){
     let inputvalue = inputFieldEl.value
     push (ShoppingList, inputvalue)
-    console.log(`${inputvalue} added to Database`)
     EmptyField()
 
 })
@@ -49,7 +48,7 @@ onValue(ShoppingList, function(snapshot){
     }
     }
     else {
-        ShoppingListEl.innerHTML = "No Items Yet..."
+        ShoppingListEl.innerHTML = "Please Add the desired items...."
     }
     
     
