@@ -1,2 +1,3 @@
 # MyCart
  Introducing my sleek and efficient shopping cart project, designed to streamline your shopping experience! Leveraging the power of Firebase Realtime Database, this application seamlessly manages your shopping list in real-time. With a clean and user-friendly interface, you can effortlessly add items to your cart, watch as they dynamically update, and even remove them with a simple click. The modern design, coupled with Firebase's robust features, ensures a smooth and delightful shopping journey. Say goodbye to tedious manual updates – this shopping cart brings innovation and simplicity to your fingertips. Try it now and redefine the way you shop!
+ Link: https://mycart-bysahilmehta.netlify.app/
